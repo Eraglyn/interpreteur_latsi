@@ -1,0 +1,9 @@
+10 REM "Test de noms de variables a plusieurs char"
+
+20 REM "Devrait produire une : Fatal error: exception Dune__exe__Parser.MenhirBasics.Error"
+
+100 ALPHYS = 10
+110 IMPRIME "ALPHYS = ", ALPHYS
+111 NL
+
+1000 FIN

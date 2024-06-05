@@ -1,0 +1,8 @@
+20 ENTREE N
+10 IMPRIME "Veuillez entrer un nombre: "
+
+90 IMPRIME "Vous avez entré: ", N
+0 REM "Test d'input"
+101 NL
+
+1000 FIN

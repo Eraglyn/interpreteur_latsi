@@ -1,0 +1,35 @@
+5 REM "Tests sur les conditions."
+
+10 I = 0
+
+20 X = 12
+30 Y = 100
+
+45 SI X > Y ALORS VAVERS 900
+
+48 I = I + 1
+50 X = X + 7
+55 Y = Y + 5
+
+70 IMPRIME "X = ", X
+71 NL
+75 IMPRIME "Y = ", Y
+76 NL
+
+100 SI X + I / 2 >= Y ALORS VAVERS 200
+
+200 X = X - 11
+205 Y = Y - 10
+
+
+300 VAVERS 45
+
+
+900 IMPRIME "X > Y"
+901 NL
+920 IMPRIME "compteur : ", I
+921 NL
+940 IMPRIME "Bye"
+941 NL
+
+1000 FIN

@@ -1,0 +1,22 @@
+5 REM "Tests sur les opérateurs."
+
+20 X = 4
+30 Y = 7
+40 Z = X + Y
+
+60 IMPRIME "X + Y = ", Z
+61 NL
+
+69 Z = X - Y
+70 IMPRIME "X - Y = ", Z
+71 NL
+
+79 Z = X * Y
+80 IMPRIME "X * Y = ", Z
+81 NL
+
+89 Z = X / Y
+90 IMPRIME "X / Y = ", Z
+91 NL
+
+1000 FIN

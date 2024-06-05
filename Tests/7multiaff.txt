@@ -1,0 +1,26 @@
+10 REM "Test de la multi affectation"
+
+100 A = 1, B = 2, C = 3, D = 4, E = 5, F = 6, G = 7, H = 8, I = 9, J = 10
+
+200 IMPRIME "A = ", A
+201 NL
+210 IMPRIME "B = ", B
+211 NL
+220 IMPRIME "C = ", C
+221 NL
+230 IMPRIME "D = ", D
+231 NL
+240 IMPRIME "E = ", E
+241 NL
+250 IMPRIME "F = ", F
+251 NL
+260 IMPRIME "G = ", G
+261 NL
+270 IMPRIME "H = ", H
+271 NL
+280 IMPRIME "I = ", I
+281 NL
+290 IMPRIME "J = ", J
+291 NL
+
+1000 FIN

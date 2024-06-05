@@ -1,0 +1,9 @@
+1 REM "Test si deux lignes même numéro pose problème"
+
+5 REM "Devrait imprimer 'Deuxième ligne'"
+
+10 IMPRIME "Première ligne"
+10 IMPRIME "Deuxième ligne"
+11 NL
+
+1000 FIN
